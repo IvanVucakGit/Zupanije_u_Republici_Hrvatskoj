@@ -1,3 +1,4 @@
 document.querySelector(".pregled").addEventListener("click", () => {
-   window.location.href="tablica.html";
+   window.location.href="datatable.html";
+
 });
