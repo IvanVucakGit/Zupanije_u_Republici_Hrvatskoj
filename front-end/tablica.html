@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Županije i gradovi</title>
+  <link rel="stylesheet" href="public/tablica.css">
+  <script src="public/tablica.js" defer></script>
+</head>
+<body>
+  <h1 class="naslov">Županije Republike Hrvatske i njihovi gradovi</h1>
+
+  <form class="filter">
+    <input type="text" class="search" placeholder="Pretraži..." />
+    <select class="atribut">
+      <option value="svi">Svi stupci(wildcard)</option>
+      <option value="ime_zupanije">Ime županije</option>
+      <option value="sjediste">Sjedište</option>
+      <option value="zupan">Župan</option>
+      <option value="povrsina_km2">Površina</option>
+      <option value="broj_stanovnika">Stanovnici</option>
+      <option value="pozivni_broj">Pozivni broj</option>
+      <option value="dan_zupanije">Dan županije</option>
+      <option value="broj_opcina">Broj općina</option>
+      <option value="broj_naselja">Broj naselja</option>
+      <option value="ime_grada">Ime grada</option>
+    </select>
+    <button class="submit" type="submit">Filtriraj</button>
+  </form>
+
+  <table class="tablica">
+    <thead>
+      <tr>
+        <th>Županija</th>
+        <th>Sjedište</th>
+        <th>Župan</th>
+        <th>Površina (km²)</th>
+        <th>Broj stanovnika</th>
+        <th>Pozivni broj</th>
+        <th>Dan županije</th>
+        <th>Broj općina</th>
+        <th>Broj naselja</th>
+        <th>Grad</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <hr>
+  <p>Preuzmi filtrirane podatke:</p>
+  <p><button class="preuzmiCsv">.csv</button></p>
+  <p><button class="preuzmiJson">.json</button></p>
+  <hr>
+  <p class="dugme"><button class="povratak">Povratak na početnu stranicu</button></p>
+</body>
+</html>

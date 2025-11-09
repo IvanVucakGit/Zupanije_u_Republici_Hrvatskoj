@@ -1,0 +1,20 @@
+.povratak, .submit, .preuzmiJson, .preuzmiCsv {
+   cursor: pointer;
+}
+
+.tablica {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+.tablica th, .tablica td {
+   border: 1px solid black;
+}
+
+.dugme {
+   text-align: center;
+}
+
+.naslov {
+   text-align: center;
+}
