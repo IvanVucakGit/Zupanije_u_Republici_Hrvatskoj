@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://localhost:3000/schema.json",
+  "description" : "Skup županije Republike Hrvatske i njihovih gradova",
+  "title": "Županije u Republici Hrvatskoj",
+  "type": "object",
+  "properties": {
+      "Županije": {
+         "type": "array",
+         "description" : "Lista županije Republike Hrvatske",
+         "title": "Lista županija",
+         "items": {
+            "type": "object",
+            "description" : "Pojedina županija",
+            "title": "Županija",
+            "properties": {
+               "Župan": {
+                  "type": "string",
+                  "description" : "Župan županije",
+                  "title": "Župan"
+               },
+               "Gradovi": {
+                  "type": "array",
+                  "description" : "Popis gradova u županiji",
+                  "title": "Gradovi",
+                  "items": {
+                     "type": "object",
+                     "description" : "Pojedini grad",
+                     "title": "Grad",
+                     "properties": {
+                        "Ime grada": {
+                           "type": "string",
+                           "description" : "Ime grada",
+                           "title": "Ime grada"
+                        }
+                     },
+                     "required": [
+                        "Ime grada"
+                     ]
+                  }
+               },
+               "Sjedište": {
+                  "type": "string",
+                  "description" : "Sjedište županije",
+                  "title": "Sjedište"
+               },
+               "Stanovnici": {
+                  "type": "number",
+                  "description" : "Broj stanovnika županije",
+                  "title": "Broj stanovnika"
+               },
+               "Broj naselja": {
+                  "type": "number",
+                  "description" : "Broj naselja u županiji",
+                  "title": "Broj naselja"
+               },
+               "Broj općina": {
+                  "type": "number",
+                  "description" : "Broj općina u županiji",
+                  "title": "Broj općina"
+               },
+               "Pozivni broj": {
+                  "type": "string",
+                  "description" : "Pozivni broj županije",
+                  "title": "Pozivni broj"
+               },
+               "Dan županije": {
+                  "type": "string",
+                  "description" : "Dan županije",
+                  "title": "Dan županije"
+               },
+               "Ime županije": {
+                  "type": "string",
+                  "description" : "Ime županije",
+                  "title": "Ime županije"
+               },
+               "Površina u km2": {
+                  "type": "number",
+                  "description" : "Površina županije u kilometrima kvadratnim",
+                  "title": "Površina u km2"
+               }
+            },
+            "required": [
+               "Župan",
+               "Gradovi",
+               "Sjedište",
+               "Stanovnici",
+               "Broj naselja",
+               "Broj općina",
+               "Pozivni broj",
+               "Dan županije",
+               "Ime županije",
+               "Površina u km2"
+            ]
+         }
+      }
+   },
+  "required": [
+      "Županije"
+   ]
+}
