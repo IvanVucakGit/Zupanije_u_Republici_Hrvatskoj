@@ -1,0 +1,199 @@
+{
+   "openapi": "3.0.3",
+   "info": {
+      "title": "Županije u Republici Hrvatskoj",
+      "description": "Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svaku županiju navedeno je njeno ime, grad koji je njeno središte, župan(koji je bio za vrijeme kreiranja ovog skupa podataka), površina(u kilometrima kvadratnim), broj stanovnika, pozivni broj, datum kada se obilježava dan županije, popis svih gradova, broj općina i broj naselja. Taj skup dostupan je u CSV ili JSON formatu. Također dostupan je dump baze podataka napravljene u PostgreSQL-u.",
+      "language": "hr",
+      "version": "1.0",
+      "contact": {
+         "name": "Ivan Vučak",
+         "email": "iv56203@fer.hr"
+      },
+      "license": {
+         "name": "Creative Commons Zero v1.0 Universal",
+         "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+   },
+   "paths": {
+      "/zupanije": {
+         "get": {
+            "summary": "Dohvat svih županija",
+            "description": "Vraća listu svih županija u bazi podataka.",
+            "produces": [
+               "application/json"
+            ],
+            "responses": {
+               "200": {
+                  "description": "Dohvaćene županije"
+               }
+            }
+         }
+      },
+      "/gradovi": {
+         "get": {
+            "summary": "Dohvat svih gradova",
+            "description": "Vraća listu svih gradova u bazi podataka.",
+            "produces": [
+               "application/json"
+            ],
+            "responses": {
+               "200": {
+                  "description": "Dohvaćeni gradovi"
+               }
+            }
+         },
+         "post": {
+            "summary": "Dodavanje novog grada",
+            "requestBody": {
+               "required": true,
+               "content": {
+                  "application/json": {
+                     "schema": {
+                        "type": "object",
+                        "properties": {
+                           "ime_grada": { "type": "string" },
+                           "ime_zupanije": { "type": "string" }
+                        }
+                     }
+                  }
+               }
+            },
+            "responses": {
+               "201": {
+                  "description": "Grad uspješno dodan"
+               },
+               "409": {
+                  "description": "Grad već postoji"
+               }
+            }
+         }
+      },
+      "/gradovi/{ime}": {
+         "get": {
+            "summary": "Dohvat grada po imenu",
+            "description": "Vraća grad s traženim imenom.",
+            "produces": [
+               "application/json"
+            ],
+            "parameters": [
+               {
+                  "name": "ime",
+                  "in": "path",
+                  "description": "Ime grada",
+                  "required": true,
+                  "type": "string"
+               }
+            ],
+            "responses": {
+               "200": {
+                  "description": "Grad dohvaćen"
+               },
+               "404": {
+                  "description": "Grad nije pronađen"
+               }
+            }
+         },
+         "put": {
+            "summary": "Ažuriranje imena grada",
+            "description": "Promjena imena grada iz trenutnog u novoizabranog.",
+            "produces": [
+               "application/json"
+            ],
+            "parameters": [
+               {
+                  "name": "ime_grada_staro",
+                  "in": "path",
+                  "required": true,
+                  "type": "string"
+               },
+               {
+                  "name": "ime_grada_novo",
+                  "in": "requestBody",
+                  "required": true,
+                  "type": "string"
+               }
+            ],
+            "responses": {
+               "200": {
+                  "description": "Grad uspješno ažuriran"
+               },
+               "404": {
+                  "description": "Grad ne postoji"
+               }
+            }
+         },
+         "delete": {
+            "summary": "Brisanje grada",
+            "description": "Briše traženi grad.",
+            "produces": [
+               "application/json"
+            ],
+            "responses": {
+               "200": {
+                  "description": "Grad uspješno uklonjen"
+               },
+               "404": {
+                  "description": "Grad ne postoji"
+               }
+            }
+         }
+      },
+      "/gradovi/filter": {
+         "get": {
+            "summary": "Filtriranje gradova",
+            "description": "Vraća listu svih gradova čiji podatci odgovaraju zadanim kriterijima.",
+            "produces": [
+               "application/json"
+            ],
+            "parameters": [
+               {
+                  "name": "search",
+                  "in": "query",
+                  "type": "string"
+               },
+               {
+                  "name": "atribut",
+                  "in": "query",
+                  "type": "string"
+               }
+            ],
+            "responses": {
+               "200": {
+                  "description": "Dohvaćeni filtrirani podaci"
+               },
+               "404": {
+                  "description": "Nema podataka koji odgovaraju kriterijima pretraživanja"
+               }
+            }
+         }
+      },
+      "/gradovi/export/json": {
+         "get": {
+            "summary": "Export gradova u JSON",
+            "description": "Vraća podatke o gradovima u JSON formatu filtrirane trenutno postavljenim filterom.",
+            "produces": [
+               "application/json"
+            ],
+            "responses": {
+               "200": {
+                  "description": "Dohvaćen JSON"
+               }
+            }
+            }
+      },
+      "/gradovi/export/csv": {
+         "get": {
+            "summary": "Export gradova u CSV",
+            "description": "Vraća podatke o gradovima u CSV formatu filtrirane trenutno postavljenim filterom.",
+            "produces": [
+               "application/json"
+            ],
+            "responses": {
+               "200": {
+                  "description": "Dohvaćen CSV"
+               }
+            }
+         }
+      }
+   }
+}

@@ -2,12 +2,12 @@
    cursor: pointer;
 }
 
-.tablica {
+.datatable {
    border: 1px solid black;
    border-collapse: collapse;
 }
 
-.tablica th, .tablica td {
+.datatable th, .datatable td {
    border: 1px solid black;
 }
 
@@ -17,4 +17,10 @@
 
 .naslov {
    text-align: center;
+}
+
+.trazilice-container {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
 }
