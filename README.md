@@ -23,7 +23,7 @@ Ovaj repozitorij sadrži skup podataka o županijama Republike Hrvatske. Za svak
 
 **Broj zapisa:** 21 zapis županija s ukupno 128 zapisa gradova
 
-**Verzija:** 2.0
+**Verzija:** 3.0
 
 **Kreirano:** 24. 10. 2025.
 
