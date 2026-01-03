@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+   <meta charset="UTF-8" />
+   <title>Dodavanje grada</title>
+   <script src="public/dodajGrad.js" defer></script>
+</head>
+<body>
+   <h1 class="naslov">Dodavanje novog grada</h1>
+
+   <form class="dodaj-forma">
+      <label for="ime_grada">Ime grada:</label>
+      <input type="text" id="ime_grada" name="ime_grada" required/>
+
+      <label for="ime_zupanije">Županija:</label>
+      <select id="ime_zupanije" name="ime_zupanije" required>
+         <!-- Opcije će biti dinamički popunjene putem JavaScripta -->
+      </select>
+
+      <button type="submit">Dodaj grad</button>
+   </form>
+
+   <p class="dugme"><button class="natrag">Natrag</button></p>
+</body>
+</html>
