@@ -1,661 +1,1586 @@
-{
-    "Županije": [
-        {
-            "Župan": "Marko Marušić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Bjelovar"
-                },
-                {
-                    "Ime grada": "Čazma"
-                },
-                {
-                    "Ime grada": "Daruvar"
-                },
-                {
-                    "Ime grada": "Garešnica"
-                },
-                {
-                    "Ime grada": "Grubišno Polje"
-                }
-            ],
-            "Sjedište": "Bjelovar",
-            "Stanovnici": 101879,
-            "Broj naselja": 323,
-            "Broj općina": 18,
-            "Pozivni broj": "043",
-            "Dan županije": "8. lipnja",
-            "Ime županije": "Bjelovarsko-bilogorska županija",
-            "Površina u km2": 2640
-        },
-        {
-            "Župan": "Danijel Marušić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Nova Gradiška"
-                },
-                {
-                    "Ime grada": "Slavonski Brod"
-                }
-            ],
-            "Sjedište": "Slavonski Brod",
-            "Stanovnici": 130267,
-            "Broj naselja": 185,
-            "Broj općina": 26,
-            "Pozivni broj": "035",
-            "Dan županije": "15. travnja",
-            "Ime županije": "Brodsko-posavska županija",
-            "Površina u km2": 2043
-        },
-        {
-            "Župan": "Blaž Pezo",
-            "Gradovi": [
-                {
-                    "Ime grada": "Dubrovnik"
-                },
-                {
-                    "Ime grada": "Korčula"
-                },
-                {
-                    "Ime grada": "Metković"
-                },
-                {
-                    "Ime grada": "Opuzen"
-                },
-                {
-                    "Ime grada": "Ploče"
-                }
-            ],
-            "Sjedište": "Dubrovnik",
-            "Stanovnici": 115564,
-            "Broj naselja": 230,
-            "Broj općina": 17,
-            "Pozivni broj": "020",
-            "Dan županije": "12. svibnja",
-            "Ime županije": "Dubrovačko-neretvanska županija",
-            "Površina u km2": 1781
-        },
-        {
-            "Župan": "Tomislav Tomašević(gradonačelnik)",
-            "Gradovi": [
-                {
-                    "Ime grada": "Zagreb"
-                }
-            ],
-            "Sjedište": "Zagreb",
-            "Stanovnici": 767131,
-            "Broj naselja": 0,
-            "Broj općina": 0,
-            "Pozivni broj": "01 ",
-            "Dan županije": "31. svibnja",
-            "Ime županije": "Grad Zagreb",
-            "Površina u km2": 641
-        },
-        {
-            "Župan": "Boris Miletić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Buje"
-                },
-                {
-                    "Ime grada": "Buzet"
-                },
-                {
-                    "Ime grada": "Labin"
-                },
-                {
-                    "Ime grada": "Novigrad"
-                },
-                {
-                    "Ime grada": "Pazin"
-                },
-                {
-                    "Ime grada": "Poreč"
-                },
-                {
-                    "Ime grada": "Pula"
-                },
-                {
-                    "Ime grada": "Rovinj"
-                },
-                {
-                    "Ime grada": "Umag"
-                },
-                {
-                    "Ime grada": "Vodnjan"
-                }
-            ],
-            "Sjedište": "Pazin",
-            "Stanovnici": 195237,
-            "Broj naselja": 655,
-            "Broj općina": 31,
-            "Pozivni broj": "052",
-            "Dan županije": "25. rujna",
-            "Ime županije": "Istarska županija",
-            "Površina u km2": 2813
-        },
-        {
-            "Župan": "Martina Furdek-Hajdin",
-            "Gradovi": [
-                {
-                    "Ime grada": "Duga Resa"
-                },
-                {
-                    "Ime grada": "Karlovac"
-                },
-                {
-                    "Ime grada": "Ogulin"
-                },
-                {
-                    "Ime grada": "Slunj"
-                },
-                {
-                    "Ime grada": "Ozalj"
-                }
-            ],
-            "Sjedište": "Karlovac",
-            "Stanovnici": 112195,
-            "Broj naselja": 649,
-            "Broj općina": 17,
-            "Pozivni broj": "047",
-            "Dan županije": "25. travnja",
-            "Ime županije": "Karlovačka županija",
-            "Površina u km2": 3622
-        },
-        {
-            "Župan": "Tomislav Golubić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Đurđevac"
-                },
-                {
-                    "Ime grada": "Koprivnica"
-                },
-                {
-                    "Ime grada": "Križevci"
-                }
-            ],
-            "Sjedište": "Koprivnica",
-            "Stanovnici": 101221,
-            "Broj naselja": 264,
-            "Broj općina": 22,
-            "Pozivni broj": "048",
-            "Dan županije": "13. travnja",
-            "Ime županije": "Koprivničko-križevačka županija",
-            "Površina u km2": 1748
-        },
-        {
-            "Župan": "Željko Kolar",
-            "Gradovi": [
-                {
-                    "Ime grada": "Donja Stubica"
-                },
-                {
-                    "Ime grada": "Klanjec"
-                },
-                {
-                    "Ime grada": "Krapina"
-                },
-                {
-                    "Ime grada": "Oroslavje"
-                },
-                {
-                    "Ime grada": "Pregrada"
-                },
-                {
-                    "Ime grada": "Zabok"
-                },
-                {
-                    "Ime grada": "Zlatar"
-                }
-            ],
-            "Sjedište": "Krapina",
-            "Stanovnici": 120702,
-            "Broj naselja": 423,
-            "Broj općina": 25,
-            "Pozivni broj": "049",
-            "Dan županije": "23. travnja",
-            "Ime županije": "Krapinsko-zagorska županija",
-            "Površina u km2": 1229
-        },
-        {
-            "Župan": "Ernest Petry",
-            "Gradovi": [
-                {
-                    "Ime grada": "Gospić"
-                },
-                {
-                    "Ime grada": "Novalja"
-                },
-                {
-                    "Ime grada": "Otočac"
-                },
-                {
-                    "Ime grada": "Senj"
-                }
-            ],
-            "Sjedište": "Gospić",
-            "Stanovnici": 42748,
-            "Broj naselja": 255,
-            "Broj općina": 8,
-            "Pozivni broj": "053",
-            "Dan županije": "23. svibnja",
-            "Ime županije": "Ličko-senjska županija",
-            "Površina u km2": 5353
-        },
-        {
-            "Župan": "Matija Posavec",
-            "Gradovi": [
-                {
-                    "Ime grada": "Čakovec"
-                },
-                {
-                    "Ime grada": "Mursko Središće"
-                },
-                {
-                    "Ime grada": "Prelog"
-                }
-            ],
-            "Sjedište": "Čakovec",
-            "Stanovnici": 105250,
-            "Broj naselja": 131,
-            "Broj općina": 22,
-            "Pozivni broj": "040",
-            "Dan županije": "30. travnja",
-            "Ime županije": "Međimurska županija",
-            "Površina u km2": 729
-        },
-        {
-            "Župan": "Nataša Tramišak",
-            "Gradovi": [
-                {
-                    "Ime grada": "Beli Manastir"
-                },
-                {
-                    "Ime grada": "Belišće"
-                },
-                {
-                    "Ime grada": "Donji Miholjac"
-                },
-                {
-                    "Ime grada": "Đakovo"
-                },
-                {
-                    "Ime grada": "Našice"
-                },
-                {
-                    "Ime grada": "Osijek"
-                },
-                {
-                    "Ime grada": "Valpovo"
-                }
-            ],
-            "Sjedište": "Osijek",
-            "Stanovnici": 258026,
-            "Broj naselja": 263,
-            "Broj općina": 35,
-            "Pozivni broj": "031",
-            "Dan županije": "2. lipnja",
-            "Ime županije": "Osječko-baranjska županija",
-            "Površina u km2": 4155
-        },
-        {
-            "Župan": "Antonija Jozić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Kutjevo"
-                },
-                {
-                    "Ime grada": "Lipik"
-                },
-                {
-                    "Ime grada": "Pakrac"
-                },
-                {
-                    "Ime grada": "Pleternica"
-                },
-                {
-                    "Ime grada": "Požega"
-                }
-            ],
-            "Sjedište": "Požega",
-            "Stanovnici": 64084,
-            "Broj naselja": 277,
-            "Broj općina": 5,
-            "Pozivni broj": "034",
-            "Dan županije": "14. travnja",
-            "Ime županije": "Požeško-slavonska županija",
-            "Površina u km2": 1823
-        },
-        {
-            "Župan": "Ivica Lukanović",
-            "Gradovi": [
-                {
-                    "Ime grada": "Bakar"
-                },
-                {
-                    "Ime grada": "Cres"
-                },
-                {
-                    "Ime grada": "Crikvenica"
-                },
-                {
-                    "Ime grada": "Čabar"
-                },
-                {
-                    "Ime grada": "Delnice"
-                },
-                {
-                    "Ime grada": "Kastav"
-                },
-                {
-                    "Ime grada": "Kraljevica"
-                },
-                {
-                    "Ime grada": "Krk"
-                },
-                {
-                    "Ime grada": "Mali Lošinj"
-                },
-                {
-                    "Ime grada": "Novi Vinodolski"
-                },
-                {
-                    "Ime grada": "Opatija"
-                },
-                {
-                    "Ime grada": "Rab"
-                },
-                {
-                    "Ime grada": "Rijeka"
-                },
-                {
-                    "Ime grada": "Vrbovsko"
-                }
-            ],
-            "Sjedište": "Rijeka",
-            "Stanovnici": 265419,
-            "Broj naselja": 510,
-            "Broj općina": 22,
-            "Pozivni broj": "051",
-            "Dan županije": "14. travnja",
-            "Ime županije": "Primorsko-goranska županija",
-            "Površina u km2": 3588
-        },
-        {
-            "Župan": "Ivan Celjak",
-            "Gradovi": [
-                {
-                    "Ime grada": "Glina"
-                },
-                {
-                    "Ime grada": "Hrvatska Kostajnica"
-                },
-                {
-                    "Ime grada": "Kutina"
-                },
-                {
-                    "Ime grada": "Novska"
-                },
-                {
-                    "Ime grada": "Petrinja"
-                },
-                {
-                    "Ime grada": "Popovača"
-                },
-                {
-                    "Ime grada": "Sisak"
-                }
-            ],
-            "Sjedište": "Sisak",
-            "Stanovnici": 139603,
-            "Broj naselja": 456,
-            "Broj općina": 12,
-            "Pozivni broj": "044",
-            "Dan županije": "11. lipnja",
-            "Ime županije": "Sisačko-moslavačka županija",
-            "Površina u km2": 4468
-        },
-        {
-            "Župan": "Blaženko Boban",
-            "Gradovi": [
-                {
-                    "Ime grada": "Hvar"
-                },
-                {
-                    "Ime grada": "Imotski"
-                },
-                {
-                    "Ime grada": "Kaštela"
-                },
-                {
-                    "Ime grada": "Komiža"
-                },
-                {
-                    "Ime grada": "Makarska"
-                },
-                {
-                    "Ime grada": "Omiš"
-                },
-                {
-                    "Ime grada": "Sinj"
-                },
-                {
-                    "Ime grada": "Solin"
-                },
-                {
-                    "Ime grada": "Split"
-                },
-                {
-                    "Ime grada": "Stari Grad"
-                },
-                {
-                    "Ime grada": "Supetar"
-                },
-                {
-                    "Ime grada": "Trilj"
-                },
-                {
-                    "Ime grada": "Trogir"
-                },
-                {
-                    "Ime grada": "Vis"
-                },
-                {
-                    "Ime grada": "Vrgorac"
-                },
-                {
-                    "Ime grada": "Vrlika"
-                }
-            ],
-            "Sjedište": "Split",
-            "Stanovnici": 423407,
-            "Broj naselja": 368,
-            "Broj općina": 39,
-            "Pozivni broj": "021",
-            "Dan županije": "30. rujna",
-            "Ime županije": "Splitsko-dalmatinska županija",
-            "Površina u km2": 14045
-        },
-        {
-            "Župan": "Paško Rakić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Drniš"
-                },
-                {
-                    "Ime grada": "Knin"
-                },
-                {
-                    "Ime grada": "Skradin"
-                },
-                {
-                    "Ime grada": "Šibenik"
-                },
-                {
-                    "Ime grada": "Vodice"
-                }
-            ],
-            "Sjedište": "Šibenik",
-            "Stanovnici": 96381,
-            "Broj naselja": 199,
-            "Broj općina": 15,
-            "Pozivni broj": "022",
-            "Dan županije": "17. svibnja",
-            "Ime županije": "Šibensko-kninska županija",
-            "Površina u km2": 2994
-        },
-        {
-            "Župan": "Anđelko Stričak",
-            "Gradovi": [
-                {
-                    "Ime grada": "Ivanec"
-                },
-                {
-                    "Ime grada": "Lepoglava"
-                },
-                {
-                    "Ime grada": "Ludbreg"
-                },
-                {
-                    "Ime grada": "Novi Marof"
-                },
-                {
-                    "Ime grada": "Varaždin"
-                },
-                {
-                    "Ime grada": "Varaždinske Toplice"
-                }
-            ],
-            "Sjedište": "Varaždin",
-            "Stanovnici": 159487,
-            "Broj naselja": 302,
-            "Broj općina": 22,
-            "Pozivni broj": "042",
-            "Dan županije": "8. rujna",
-            "Ime županije": "Varaždinska županija",
-            "Površina u km2": 1262
-        },
-        {
-            "Župan": "Igor Andrović",
-            "Gradovi": [
-                {
-                    "Ime grada": "Orahovica"
-                },
-                {
-                    "Ime grada": "Slatina"
-                },
-                {
-                    "Ime grada": "Virovitica"
-                }
-            ],
-            "Sjedište": "Virovitica",
-            "Stanovnici": 70368,
-            "Broj naselja": 188,
-            "Broj općina": 13,
-            "Pozivni broj": "033",
-            "Dan županije": "5. rujna",
-            "Ime županije": "Virovitičko-podravska županija",
-            "Površina u km2": 2024
-        },
-        {
-            "Župan": "Ivan Bosančić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Ilok"
-                },
-                {
-                    "Ime grada": "Otok"
-                },
-                {
-                    "Ime grada": "Vinkovci"
-                },
-                {
-                    "Ime grada": "Vukovar"
-                },
-                {
-                    "Ime grada": "Županja"
-                }
-            ],
-            "Sjedište": "Vukovar",
-            "Stanovnici": 143113,
-            "Broj naselja": 85,
-            "Broj općina": 26,
-            "Pozivni broj": "032",
-            "Dan županije": "11. studenog",
-            "Ime županije": "Vukovarsko-srijemska županija",
-            "Površina u km2": 2454
-        },
-        {
-            "Župan": "Josip Bilaver",
-            "Gradovi": [
-                {
-                    "Ime grada": "Benkovac"
-                },
-                {
-                    "Ime grada": "Biograd na Moru"
-                },
-                {
-                    "Ime grada": "Nin"
-                },
-                {
-                    "Ime grada": "Obrovac"
-                },
-                {
-                    "Ime grada": "Pag"
-                },
-                {
-                    "Ime grada": "Zadar"
-                }
-            ],
-            "Sjedište": "Zadar",
-            "Stanovnici": 159766,
-            "Broj naselja": 229,
-            "Broj općina": 28,
-            "Pozivni broj": "023",
-            "Dan županije": "15. travnja",
-            "Ime županije": "Zadarska županija",
-            "Površina u km2": 3646
-        },
-        {
-            "Župan": "Stjepan Kožić",
-            "Gradovi": [
-                {
-                    "Ime grada": "Dugo Selo"
-                },
-                {
-                    "Ime grada": "Ivanić-Grad"
-                },
-                {
-                    "Ime grada": "Jastrebarsko"
-                },
-                {
-                    "Ime grada": "Samobor"
-                },
-                {
-                    "Ime grada": "Sveta Nedelja"
-                },
-                {
-                    "Ime grada": "Sveti Ivan Zelina"
-                },
-                {
-                    "Ime grada": "Velika Gorica"
-                },
-                {
-                    "Ime grada": "Vrbovec"
-                },
-                {
-                    "Ime grada": "Zaprešić"
-                }
-            ],
-            "Sjedište": "Grad Zagreb",
-            "Stanovnici": 299985,
-            "Broj naselja": 694,
-            "Broj općina": 25,
-            "Pozivni broj": "01 ",
-            "Dan županije": "17. srpnja",
-            "Ime županije": "Zagrebačka županija",
-            "Površina u km2": 3060
-        }
-    ]
-}
+[
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Abcdefghijkl"
+  },
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Bjelovar"
+  },
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Čazma"
+  },
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Daruvar"
+  },
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Garešnica"
+  },
+  {
+    "ime_zupanije": "Bjelovarsko-bilogorska županija",
+    "sjediste": "Bjelovar",
+    "zupan": "Marko Marušić",
+    "povrsina_km2": 2640,
+    "broj_stanovnika": 101879,
+    "pozivni_broj": "043",
+    "dan_zupanije": "8. lipnja",
+    "broj_opcina": 18,
+    "broj_naselja": 323,
+    "ime_grada": "Grubišno Polje"
+  },
+  {
+    "ime_zupanije": "Brodsko-posavska županija",
+    "sjediste": "Slavonski Brod",
+    "zupan": "Danijel Marušić",
+    "povrsina_km2": 2043,
+    "broj_stanovnika": 130267,
+    "pozivni_broj": "035",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 26,
+    "broj_naselja": 185,
+    "ime_grada": "Nova Gradiška"
+  },
+  {
+    "ime_zupanije": "Brodsko-posavska županija",
+    "sjediste": "Slavonski Brod",
+    "zupan": "Danijel Marušić",
+    "povrsina_km2": 2043,
+    "broj_stanovnika": 130267,
+    "pozivni_broj": "035",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 26,
+    "broj_naselja": 185,
+    "ime_grada": "Slavonski Brod"
+  },
+  {
+    "ime_zupanije": "Dubrovačko-neretvanska županija",
+    "sjediste": "Dubrovnik",
+    "zupan": "Blaž Pezo",
+    "povrsina_km2": 1781,
+    "broj_stanovnika": 115564,
+    "pozivni_broj": "020",
+    "dan_zupanije": "12. svibnja",
+    "broj_opcina": 17,
+    "broj_naselja": 230,
+    "ime_grada": "Dubrovnik"
+  },
+  {
+    "ime_zupanije": "Dubrovačko-neretvanska županija",
+    "sjediste": "Dubrovnik",
+    "zupan": "Blaž Pezo",
+    "povrsina_km2": 1781,
+    "broj_stanovnika": 115564,
+    "pozivni_broj": "020",
+    "dan_zupanije": "12. svibnja",
+    "broj_opcina": 17,
+    "broj_naselja": 230,
+    "ime_grada": "Korčula"
+  },
+  {
+    "ime_zupanije": "Dubrovačko-neretvanska županija",
+    "sjediste": "Dubrovnik",
+    "zupan": "Blaž Pezo",
+    "povrsina_km2": 1781,
+    "broj_stanovnika": 115564,
+    "pozivni_broj": "020",
+    "dan_zupanije": "12. svibnja",
+    "broj_opcina": 17,
+    "broj_naselja": 230,
+    "ime_grada": "Metković"
+  },
+  {
+    "ime_zupanije": "Dubrovačko-neretvanska županija",
+    "sjediste": "Dubrovnik",
+    "zupan": "Blaž Pezo",
+    "povrsina_km2": 1781,
+    "broj_stanovnika": 115564,
+    "pozivni_broj": "020",
+    "dan_zupanije": "12. svibnja",
+    "broj_opcina": 17,
+    "broj_naselja": 230,
+    "ime_grada": "Opuzen"
+  },
+  {
+    "ime_zupanije": "Dubrovačko-neretvanska županija",
+    "sjediste": "Dubrovnik",
+    "zupan": "Blaž Pezo",
+    "povrsina_km2": 1781,
+    "broj_stanovnika": 115564,
+    "pozivni_broj": "020",
+    "dan_zupanije": "12. svibnja",
+    "broj_opcina": 17,
+    "broj_naselja": 230,
+    "ime_grada": "Ploče"
+  },
+  {
+    "ime_zupanije": "Grad Zagreb",
+    "sjediste": "Zagreb",
+    "zupan": "Tomislav Tomašević(gradonačelnik)",
+    "povrsina_km2": 641,
+    "broj_stanovnika": 767131,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "31. svibnja",
+    "broj_opcina": 0,
+    "broj_naselja": 0,
+    "ime_grada": "Zagreb"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Buje"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Buzet"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Kojib"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Labin"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Novigrad"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Pazin"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Poreč"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Pula"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Rovinj"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Umag"
+  },
+  {
+    "ime_zupanije": "Istarska županija",
+    "sjediste": "Pazin",
+    "zupan": "Boris Miletić",
+    "povrsina_km2": 2813,
+    "broj_stanovnika": 195237,
+    "pozivni_broj": "052",
+    "dan_zupanije": "25. rujna",
+    "broj_opcina": 31,
+    "broj_naselja": 655,
+    "ime_grada": "Vodnjan"
+  },
+  {
+    "ime_zupanije": "Karlovačka županija",
+    "sjediste": "Karlovac",
+    "zupan": "Martina Furdek-Hajdin",
+    "povrsina_km2": 3622,
+    "broj_stanovnika": 112195,
+    "pozivni_broj": "047",
+    "dan_zupanije": "25. travnja",
+    "broj_opcina": 17,
+    "broj_naselja": 649,
+    "ime_grada": "Duga Resa"
+  },
+  {
+    "ime_zupanije": "Karlovačka županija",
+    "sjediste": "Karlovac",
+    "zupan": "Martina Furdek-Hajdin",
+    "povrsina_km2": 3622,
+    "broj_stanovnika": 112195,
+    "pozivni_broj": "047",
+    "dan_zupanije": "25. travnja",
+    "broj_opcina": 17,
+    "broj_naselja": 649,
+    "ime_grada": "Karlovac"
+  },
+  {
+    "ime_zupanije": "Karlovačka županija",
+    "sjediste": "Karlovac",
+    "zupan": "Martina Furdek-Hajdin",
+    "povrsina_km2": 3622,
+    "broj_stanovnika": 112195,
+    "pozivni_broj": "047",
+    "dan_zupanije": "25. travnja",
+    "broj_opcina": 17,
+    "broj_naselja": 649,
+    "ime_grada": "Ogulin"
+  },
+  {
+    "ime_zupanije": "Karlovačka županija",
+    "sjediste": "Karlovac",
+    "zupan": "Martina Furdek-Hajdin",
+    "povrsina_km2": 3622,
+    "broj_stanovnika": 112195,
+    "pozivni_broj": "047",
+    "dan_zupanije": "25. travnja",
+    "broj_opcina": 17,
+    "broj_naselja": 649,
+    "ime_grada": "Ozalj"
+  },
+  {
+    "ime_zupanije": "Karlovačka županija",
+    "sjediste": "Karlovac",
+    "zupan": "Martina Furdek-Hajdin",
+    "povrsina_km2": 3622,
+    "broj_stanovnika": 112195,
+    "pozivni_broj": "047",
+    "dan_zupanije": "25. travnja",
+    "broj_opcina": 17,
+    "broj_naselja": 649,
+    "ime_grada": "Slunj"
+  },
+  {
+    "ime_zupanije": "Koprivničko-križevačka županija",
+    "sjediste": "Koprivnica",
+    "zupan": "Tomislav Golubić",
+    "povrsina_km2": 1748,
+    "broj_stanovnika": 101221,
+    "pozivni_broj": "048",
+    "dan_zupanije": "13. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 264,
+    "ime_grada": "Đurđevac"
+  },
+  {
+    "ime_zupanije": "Koprivničko-križevačka županija",
+    "sjediste": "Koprivnica",
+    "zupan": "Tomislav Golubić",
+    "povrsina_km2": 1748,
+    "broj_stanovnika": 101221,
+    "pozivni_broj": "048",
+    "dan_zupanije": "13. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 264,
+    "ime_grada": "Koprivnica"
+  },
+  {
+    "ime_zupanije": "Koprivničko-križevačka županija",
+    "sjediste": "Koprivnica",
+    "zupan": "Tomislav Golubić",
+    "povrsina_km2": 1748,
+    "broj_stanovnika": 101221,
+    "pozivni_broj": "048",
+    "dan_zupanije": "13. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 264,
+    "ime_grada": "Križevci"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Donja Stubica"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Klanjec"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Krapina"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Oroslavje"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Pregrada"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Zabok"
+  },
+  {
+    "ime_zupanije": "Krapinsko-zagorska županija",
+    "sjediste": "Krapina",
+    "zupan": "Željko Kolar",
+    "povrsina_km2": 1229,
+    "broj_stanovnika": 120702,
+    "pozivni_broj": "049",
+    "dan_zupanije": "23. travnja",
+    "broj_opcina": 25,
+    "broj_naselja": 423,
+    "ime_grada": "Zlatar"
+  },
+  {
+    "ime_zupanije": "Ličko-senjska županija",
+    "sjediste": "Gospić",
+    "zupan": "Ernest Petry",
+    "povrsina_km2": 5353,
+    "broj_stanovnika": 42748,
+    "pozivni_broj": "053",
+    "dan_zupanije": "23. svibnja",
+    "broj_opcina": 8,
+    "broj_naselja": 255,
+    "ime_grada": "Gospić"
+  },
+  {
+    "ime_zupanije": "Ličko-senjska županija",
+    "sjediste": "Gospić",
+    "zupan": "Ernest Petry",
+    "povrsina_km2": 5353,
+    "broj_stanovnika": 42748,
+    "pozivni_broj": "053",
+    "dan_zupanije": "23. svibnja",
+    "broj_opcina": 8,
+    "broj_naselja": 255,
+    "ime_grada": "Novalja"
+  },
+  {
+    "ime_zupanije": "Ličko-senjska županija",
+    "sjediste": "Gospić",
+    "zupan": "Ernest Petry",
+    "povrsina_km2": 5353,
+    "broj_stanovnika": 42748,
+    "pozivni_broj": "053",
+    "dan_zupanije": "23. svibnja",
+    "broj_opcina": 8,
+    "broj_naselja": 255,
+    "ime_grada": "Otočac"
+  },
+  {
+    "ime_zupanije": "Ličko-senjska županija",
+    "sjediste": "Gospić",
+    "zupan": "Ernest Petry",
+    "povrsina_km2": 5353,
+    "broj_stanovnika": 42748,
+    "pozivni_broj": "053",
+    "dan_zupanije": "23. svibnja",
+    "broj_opcina": 8,
+    "broj_naselja": 255,
+    "ime_grada": "Senj"
+  },
+  {
+    "ime_zupanije": "Međimurska županija",
+    "sjediste": "Čakovec",
+    "zupan": "Matija Posavec",
+    "povrsina_km2": 729,
+    "broj_stanovnika": 105250,
+    "pozivni_broj": "040",
+    "dan_zupanije": "30. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 131,
+    "ime_grada": "Čakovec"
+  },
+  {
+    "ime_zupanije": "Međimurska županija",
+    "sjediste": "Čakovec",
+    "zupan": "Matija Posavec",
+    "povrsina_km2": 729,
+    "broj_stanovnika": 105250,
+    "pozivni_broj": "040",
+    "dan_zupanije": "30. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 131,
+    "ime_grada": "Mursko Središće"
+  },
+  {
+    "ime_zupanije": "Međimurska županija",
+    "sjediste": "Čakovec",
+    "zupan": "Matija Posavec",
+    "povrsina_km2": 729,
+    "broj_stanovnika": 105250,
+    "pozivni_broj": "040",
+    "dan_zupanije": "30. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 131,
+    "ime_grada": "Prelog"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Beli Manastir"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Belišće"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Donji Miholjac"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Đakovo"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Našice"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Osijek"
+  },
+  {
+    "ime_zupanije": "Osječko-baranjska županija",
+    "sjediste": "Osijek",
+    "zupan": "Nataša Tramišak",
+    "povrsina_km2": 4155,
+    "broj_stanovnika": 258026,
+    "pozivni_broj": "031",
+    "dan_zupanije": "2. lipnja",
+    "broj_opcina": 35,
+    "broj_naselja": 263,
+    "ime_grada": "Valpovo"
+  },
+  {
+    "ime_zupanije": "Požeško-slavonska županija",
+    "sjediste": "Požega",
+    "zupan": "Antonija Jozić",
+    "povrsina_km2": 1823,
+    "broj_stanovnika": 64084,
+    "pozivni_broj": "034",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 5,
+    "broj_naselja": 277,
+    "ime_grada": "Kutjevo"
+  },
+  {
+    "ime_zupanije": "Požeško-slavonska županija",
+    "sjediste": "Požega",
+    "zupan": "Antonija Jozić",
+    "povrsina_km2": 1823,
+    "broj_stanovnika": 64084,
+    "pozivni_broj": "034",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 5,
+    "broj_naselja": 277,
+    "ime_grada": "Lipik"
+  },
+  {
+    "ime_zupanije": "Požeško-slavonska županija",
+    "sjediste": "Požega",
+    "zupan": "Antonija Jozić",
+    "povrsina_km2": 1823,
+    "broj_stanovnika": 64084,
+    "pozivni_broj": "034",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 5,
+    "broj_naselja": 277,
+    "ime_grada": "Pakrac"
+  },
+  {
+    "ime_zupanije": "Požeško-slavonska županija",
+    "sjediste": "Požega",
+    "zupan": "Antonija Jozić",
+    "povrsina_km2": 1823,
+    "broj_stanovnika": 64084,
+    "pozivni_broj": "034",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 5,
+    "broj_naselja": 277,
+    "ime_grada": "Pleternica"
+  },
+  {
+    "ime_zupanije": "Požeško-slavonska županija",
+    "sjediste": "Požega",
+    "zupan": "Antonija Jozić",
+    "povrsina_km2": 1823,
+    "broj_stanovnika": 64084,
+    "pozivni_broj": "034",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 5,
+    "broj_naselja": 277,
+    "ime_grada": "Požega"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Ainfaf"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Bakar"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Cres"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Crikvenica"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Čabar"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Delnice"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Kastav"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Kraljevica"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Krk"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Mali Lošinj"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Novi Vinodolski"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Opatija"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Rab"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Rijeka"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Sveradi"
+  },
+  {
+    "ime_zupanije": "Primorsko-goranska županija",
+    "sjediste": "Rijeka",
+    "zupan": "Ivica Lukanović",
+    "povrsina_km2": 3588,
+    "broj_stanovnika": 265419,
+    "pozivni_broj": "051",
+    "dan_zupanije": "14. travnja",
+    "broj_opcina": 22,
+    "broj_naselja": 510,
+    "ime_grada": "Vrbovsko"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Glina"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Hrvatska Kostajnica"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Kutina"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Novska"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Petrinja"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Popovača"
+  },
+  {
+    "ime_zupanije": "Sisačko-moslavačka županija",
+    "sjediste": "Sisak",
+    "zupan": "Ivan Celjak",
+    "povrsina_km2": 4468,
+    "broj_stanovnika": 139603,
+    "pozivni_broj": "044",
+    "dan_zupanije": "11. lipnja",
+    "broj_opcina": 12,
+    "broj_naselja": 456,
+    "ime_grada": "Sisak"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Hvar"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Imotski"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Kaštela"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Komiža"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Makarska"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Omiš"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Sinj"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Solin"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Split"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Stari Grad"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Supetar"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Trilj"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Trogir"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Vis"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Vrgorac"
+  },
+  {
+    "ime_zupanije": "Splitsko-dalmatinska županija",
+    "sjediste": "Split",
+    "zupan": "Blaženko Boban",
+    "povrsina_km2": 14045,
+    "broj_stanovnika": 423407,
+    "pozivni_broj": "021",
+    "dan_zupanije": "30. rujna",
+    "broj_opcina": 39,
+    "broj_naselja": 368,
+    "ime_grada": "Vrlika"
+  },
+  {
+    "ime_zupanije": "Šibensko-kninska županija",
+    "sjediste": "Šibenik",
+    "zupan": "Paško Rakić",
+    "povrsina_km2": 2994,
+    "broj_stanovnika": 96381,
+    "pozivni_broj": "022",
+    "dan_zupanije": "17. svibnja",
+    "broj_opcina": 15,
+    "broj_naselja": 199,
+    "ime_grada": "Drniš"
+  },
+  {
+    "ime_zupanije": "Šibensko-kninska županija",
+    "sjediste": "Šibenik",
+    "zupan": "Paško Rakić",
+    "povrsina_km2": 2994,
+    "broj_stanovnika": 96381,
+    "pozivni_broj": "022",
+    "dan_zupanije": "17. svibnja",
+    "broj_opcina": 15,
+    "broj_naselja": 199,
+    "ime_grada": "Knin"
+  },
+  {
+    "ime_zupanije": "Šibensko-kninska županija",
+    "sjediste": "Šibenik",
+    "zupan": "Paško Rakić",
+    "povrsina_km2": 2994,
+    "broj_stanovnika": 96381,
+    "pozivni_broj": "022",
+    "dan_zupanije": "17. svibnja",
+    "broj_opcina": 15,
+    "broj_naselja": 199,
+    "ime_grada": "Skradin"
+  },
+  {
+    "ime_zupanije": "Šibensko-kninska županija",
+    "sjediste": "Šibenik",
+    "zupan": "Paško Rakić",
+    "povrsina_km2": 2994,
+    "broj_stanovnika": 96381,
+    "pozivni_broj": "022",
+    "dan_zupanije": "17. svibnja",
+    "broj_opcina": 15,
+    "broj_naselja": 199,
+    "ime_grada": "Šibenik"
+  },
+  {
+    "ime_zupanije": "Šibensko-kninska županija",
+    "sjediste": "Šibenik",
+    "zupan": "Paško Rakić",
+    "povrsina_km2": 2994,
+    "broj_stanovnika": 96381,
+    "pozivni_broj": "022",
+    "dan_zupanije": "17. svibnja",
+    "broj_opcina": 15,
+    "broj_naselja": 199,
+    "ime_grada": "Vodice"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Ivanec"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Lepoglava"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Ludbreg"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Novi Marof"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Varaždin"
+  },
+  {
+    "ime_zupanije": "Varaždinska županija",
+    "sjediste": "Varaždin",
+    "zupan": "Anđelko Stričak",
+    "povrsina_km2": 1262,
+    "broj_stanovnika": 159487,
+    "pozivni_broj": "042",
+    "dan_zupanije": "8. rujna",
+    "broj_opcina": 22,
+    "broj_naselja": 302,
+    "ime_grada": "Varaždinske Toplice"
+  },
+  {
+    "ime_zupanije": "Virovitičko-podravska županija",
+    "sjediste": "Virovitica",
+    "zupan": "Igor Andrović",
+    "povrsina_km2": 2024,
+    "broj_stanovnika": 70368,
+    "pozivni_broj": "033",
+    "dan_zupanije": "5. rujna",
+    "broj_opcina": 13,
+    "broj_naselja": 188,
+    "ime_grada": "Orahovica"
+  },
+  {
+    "ime_zupanije": "Virovitičko-podravska županija",
+    "sjediste": "Virovitica",
+    "zupan": "Igor Andrović",
+    "povrsina_km2": 2024,
+    "broj_stanovnika": 70368,
+    "pozivni_broj": "033",
+    "dan_zupanije": "5. rujna",
+    "broj_opcina": 13,
+    "broj_naselja": 188,
+    "ime_grada": "Slatina"
+  },
+  {
+    "ime_zupanije": "Virovitičko-podravska županija",
+    "sjediste": "Virovitica",
+    "zupan": "Igor Andrović",
+    "povrsina_km2": 2024,
+    "broj_stanovnika": 70368,
+    "pozivni_broj": "033",
+    "dan_zupanije": "5. rujna",
+    "broj_opcina": 13,
+    "broj_naselja": 188,
+    "ime_grada": "Virovitica"
+  },
+  {
+    "ime_zupanije": "Vukovarsko-srijemska županija",
+    "sjediste": "Vukovar",
+    "zupan": "Ivan Bosančić",
+    "povrsina_km2": 2454,
+    "broj_stanovnika": 143113,
+    "pozivni_broj": "032",
+    "dan_zupanije": "11. studenog",
+    "broj_opcina": 26,
+    "broj_naselja": 85,
+    "ime_grada": "Ilok"
+  },
+  {
+    "ime_zupanije": "Vukovarsko-srijemska županija",
+    "sjediste": "Vukovar",
+    "zupan": "Ivan Bosančić",
+    "povrsina_km2": 2454,
+    "broj_stanovnika": 143113,
+    "pozivni_broj": "032",
+    "dan_zupanije": "11. studenog",
+    "broj_opcina": 26,
+    "broj_naselja": 85,
+    "ime_grada": "Otok"
+  },
+  {
+    "ime_zupanije": "Vukovarsko-srijemska županija",
+    "sjediste": "Vukovar",
+    "zupan": "Ivan Bosančić",
+    "povrsina_km2": 2454,
+    "broj_stanovnika": 143113,
+    "pozivni_broj": "032",
+    "dan_zupanije": "11. studenog",
+    "broj_opcina": 26,
+    "broj_naselja": 85,
+    "ime_grada": "Vinkovci"
+  },
+  {
+    "ime_zupanije": "Vukovarsko-srijemska županija",
+    "sjediste": "Vukovar",
+    "zupan": "Ivan Bosančić",
+    "povrsina_km2": 2454,
+    "broj_stanovnika": 143113,
+    "pozivni_broj": "032",
+    "dan_zupanije": "11. studenog",
+    "broj_opcina": 26,
+    "broj_naselja": 85,
+    "ime_grada": "Vukovar"
+  },
+  {
+    "ime_zupanije": "Vukovarsko-srijemska županija",
+    "sjediste": "Vukovar",
+    "zupan": "Ivan Bosančić",
+    "povrsina_km2": 2454,
+    "broj_stanovnika": 143113,
+    "pozivni_broj": "032",
+    "dan_zupanije": "11. studenog",
+    "broj_opcina": 26,
+    "broj_naselja": 85,
+    "ime_grada": "Županja"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Benkovac"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Biograd na Moru"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Nin"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Obrovac"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Pag"
+  },
+  {
+    "ime_zupanije": "Zadarska županija",
+    "sjediste": "Zadar",
+    "zupan": "Josip Bilaver",
+    "povrsina_km2": 3646,
+    "broj_stanovnika": 159766,
+    "pozivni_broj": "023",
+    "dan_zupanije": "15. travnja",
+    "broj_opcina": 28,
+    "broj_naselja": 229,
+    "ime_grada": "Zadar"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Dugo Selo"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Ivanić-Grad"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Jastrebarsko"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Samobor"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Sveta Nedelja"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Sveti Ivan Zelina"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Velika Gorica"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Vrbovec"
+  },
+  {
+    "ime_zupanije": "Zagrebačka županija",
+    "sjediste": "Grad Zagreb",
+    "zupan": "Stjepan Kožić",
+    "povrsina_km2": 3060,
+    "broj_stanovnika": 299985,
+    "pozivni_broj": "01 ",
+    "dan_zupanije": "17. srpnja",
+    "broj_opcina": 25,
+    "broj_naselja": 694,
+    "ime_grada": "Zaprešić"
+  }
+]

@@ -8,6 +8,17 @@
    <title>Županije u Republici Hrvatskoj</title>
    <link rel="stylesheet" href="public/index.css">
    <script src="public/index.js" defer></script>
+   <script type="application/ld+json">
+      {
+         "@context": "https://schema.org/",
+         "@type": "AdministrativeArea",
+         "name" : "Primorsko-goranska županija",
+         "containsPlace": {
+            "@type": "City",
+            "name": "Rijeka"
+         }
+      }
+   </script>
 </head>
 <body>
    <h1 class="naslov">Županije u Republici Hrvatskoj</h1>
@@ -51,6 +62,14 @@
    </ul>
    <hr>
 
-   <p class="dugme"><button class="pregled">Pregled i filtriranje skupa</button></p>
+   <div class="dugme"><button class="pregled">Pregled i filtriranje skupa</button></div>
+
+   <hr>
+
+   <div class="dole">
+      <div class="dugme"><button class="racun">Korisnički račun</button></div>
+      <div class="dugme"><button class="prijava">Prijava</button></div>
+      <div class="dugme"><button class="osvjezi">Osvježi preslike</button></div>
+   </div>
 </body>
 </html>

@@ -1,129 +1,133 @@
-ime_zupanije,sjediste,zupan,povrsina_km2,broj_stanovnika,pozivni_broj,dan_zupanije,broj_opcina,broj_naselja,ime_grada
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Buje
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Buzet
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Labin
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Novigrad
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Pazin
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Poreč
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Pula
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Rovinj
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Umag
-Istarska županija,Pazin,Boris Miletić,2813,195237,052,25. rujna,31,655,Vodnjan
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Bakar
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Cres
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Crikvenica
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Čabar
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Delnice
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Kastav
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Kraljevica
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Krk
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Mali Lošinj
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Novi Vinodolski
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Opatija
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Rab
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Rijeka
-Primorsko-goranska županija,Rijeka,Ivica Lukanović,3588,265419,051,14. travnja,22,510,Vrbovsko
-Ličko-senjska županija,Gospić,Ernest Petry,5353,42748,053,23. svibnja,8,255,Gospić
-Ličko-senjska županija,Gospić,Ernest Petry,5353,42748,053,23. svibnja,8,255,Novalja
-Ličko-senjska županija,Gospić,Ernest Petry,5353,42748,053,23. svibnja,8,255,Otočac
-Ličko-senjska županija,Gospić,Ernest Petry,5353,42748,053,23. svibnja,8,255,Senj
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Benkovac
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Biograd na Moru
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Nin
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Obrovac
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Pag
-Zadarska županija,Zadar,Josip Bilaver,3646,159766,023,15. travnja,28,229,Zadar
-Šibensko-kninska županija,Šibenik,Paško Rakić,2994,96381,022,17. svibnja,15,199,Drniš
-Šibensko-kninska županija,Šibenik,Paško Rakić,2994,96381,022,17. svibnja,15,199,Knin
-Šibensko-kninska županija,Šibenik,Paško Rakić,2994,96381,022,17. svibnja,15,199,Skradin
-Šibensko-kninska županija,Šibenik,Paško Rakić,2994,96381,022,17. svibnja,15,199,Šibenik
-Šibensko-kninska županija,Šibenik,Paško Rakić,2994,96381,022,17. svibnja,15,199,Vodice
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Hvar
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Imotski
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Kaštela
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Komiža
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Makarska
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Omiš
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Sinj
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Solin
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Split
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Stari Grad
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Supetar
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Trilj
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Trogir
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Vis
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Vrgorac
-Splitsko-dalmatinska županija,Split,Blaženko Boban,14045,423407,021,30. rujna,39,368,Vrlika
-Dubrovačko-neretvanska županija,Dubrovnik,Blaž Pezo,1781,115564,020,12. svibnja,17,230,Dubrovnik
-Dubrovačko-neretvanska županija,Dubrovnik,Blaž Pezo,1781,115564,020,12. svibnja,17,230,Korčula
-Dubrovačko-neretvanska županija,Dubrovnik,Blaž Pezo,1781,115564,020,12. svibnja,17,230,Metković
-Dubrovačko-neretvanska županija,Dubrovnik,Blaž Pezo,1781,115564,020,12. svibnja,17,230,Opuzen
-Dubrovačko-neretvanska županija,Dubrovnik,Blaž Pezo,1781,115564,020,12. svibnja,17,230,Ploče
-Karlovačka županija,Karlovac,Martina Furdek-Hajdin,3622,112195,047,25. travnja,17,649,Duga Resa
-Karlovačka županija,Karlovac,Martina Furdek-Hajdin,3622,112195,047,25. travnja,17,649,Karlovac
-Karlovačka županija,Karlovac,Martina Furdek-Hajdin,3622,112195,047,25. travnja,17,649,Ogulin
-Karlovačka županija,Karlovac,Martina Furdek-Hajdin,3622,112195,047,25. travnja,17,649,Slunj
-Karlovačka županija,Karlovac,Martina Furdek-Hajdin,3622,112195,047,25. travnja,17,649,Ozalj
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Glina
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Hrvatska Kostajnica
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Kutina
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Novska
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Petrinja
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Popovača
-Sisačko-moslavačka županija,Sisak,Ivan Celjak,4468,139603,044,11. lipnja,12,456,Sisak
-Brodsko-posavska županija,Slavonski Brod,Danijel Marušić,2043,130267,035,15. travnja,26,185,Nova Gradiška
-Brodsko-posavska županija,Slavonski Brod,Danijel Marušić,2043,130267,035,15. travnja,26,185,Slavonski Brod
-Vukovarsko-srijemska županija,Vukovar,Ivan Bosančić,2454,143113,032,11. studenog,26,85,Ilok
-Vukovarsko-srijemska županija,Vukovar,Ivan Bosančić,2454,143113,032,11. studenog,26,85,Otok
-Vukovarsko-srijemska županija,Vukovar,Ivan Bosančić,2454,143113,032,11. studenog,26,85,Vinkovci
-Vukovarsko-srijemska županija,Vukovar,Ivan Bosančić,2454,143113,032,11. studenog,26,85,Vukovar
-Vukovarsko-srijemska županija,Vukovar,Ivan Bosančić,2454,143113,032,11. studenog,26,85,Županja
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Beli Manastir
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Belišće
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Donji Miholjac
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Đakovo
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Našice
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Osijek
-Osječko-baranjska županija,Osijek,Nataša Tramišak,4155,258026,031,2. lipnja,35,263,Valpovo
-Požeško-slavonska županija,Požega,Antonija Jozić,1823,64084,034,14. travnja,5,277,Kutjevo
-Požeško-slavonska županija,Požega,Antonija Jozić,1823,64084,034,14. travnja,5,277,Lipik
-Požeško-slavonska županija,Požega,Antonija Jozić,1823,64084,034,14. travnja,5,277,Pakrac
-Požeško-slavonska županija,Požega,Antonija Jozić,1823,64084,034,14. travnja,5,277,Pleternica
-Požeško-slavonska županija,Požega,Antonija Jozić,1823,64084,034,14. travnja,5,277,Požega
-Virovitičko-podravska županija,Virovitica,Igor Andrović,2024,70368,033,5. rujna,13,188,Orahovica
-Virovitičko-podravska županija,Virovitica,Igor Andrović,2024,70368,033,5. rujna,13,188,Slatina
-Virovitičko-podravska županija,Virovitica,Igor Andrović,2024,70368,033,5. rujna,13,188,Virovitica
-Bjelovarsko-bilogorska županija,Bjelovar,Marko Marušić,2640,101879,043,8. lipnja,18,323,Bjelovar
-Bjelovarsko-bilogorska županija,Bjelovar,Marko Marušić,2640,101879,043,8. lipnja,18,323,Čazma
-Bjelovarsko-bilogorska županija,Bjelovar,Marko Marušić,2640,101879,043,8. lipnja,18,323,Daruvar
-Bjelovarsko-bilogorska županija,Bjelovar,Marko Marušić,2640,101879,043,8. lipnja,18,323,Garešnica
-Bjelovarsko-bilogorska županija,Bjelovar,Marko Marušić,2640,101879,043,8. lipnja,18,323,Grubišno Polje
-Koprivničko-križevačka županija,Koprivnica,Tomislav Golubić,1748,101221,048,13. travnja,22,264,Đurđevac
-Koprivničko-križevačka županija,Koprivnica,Tomislav Golubić,1748,101221,048,13. travnja,22,264,Koprivnica
-Koprivničko-križevačka županija,Koprivnica,Tomislav Golubić,1748,101221,048,13. travnja,22,264,Križevci
-Međimurska županija,Čakovec,Matija Posavec,729,105250,040,30. travnja,22,131,Čakovec
-Međimurska županija,Čakovec,Matija Posavec,729,105250,040,30. travnja,22,131,Mursko Središće
-Međimurska županija,Čakovec,Matija Posavec,729,105250,040,30. travnja,22,131,Prelog
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Ivanec
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Lepoglava
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Ludbreg
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Novi Marof
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Varaždin
-Varaždinska županija,Varaždin,Anđelko Stričak,1262,159487,042,8. rujna,22,302,Varaždinske Toplice
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Donja Stubica
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Klanjec
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Krapina
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Oroslavje
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Pregrada
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Zabok
-Krapinsko-zagorska županija,Krapina,Željko Kolar,1229,120702,049,23. travnja,25,423,Zlatar
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Dugo Selo
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Ivanić-Grad
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Jastrebarsko
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Samobor
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Sveta Nedelja
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Sveti Ivan Zelina
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Velika Gorica
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Vrbovec
-Zagrebačka županija,Grad Zagreb,Stjepan Kožić,3060,299985,01 ,17. srpnja,25,694,Zaprešić
-Grad Zagreb,Zagreb,Tomislav Tomašević(gradonačelnik),641,767131,01 ,31. svibnja,0,0,Zagreb
+"ime_zupanije","sjediste","zupan","povrsina_km2","broj_stanovnika","pozivni_broj","dan_zupanije","broj_opcina","broj_naselja","ime_grada"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Abcdefghijkl"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Bjelovar"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Čazma"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Daruvar"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Garešnica"
+"Bjelovarsko-bilogorska županija","Bjelovar","Marko Marušić",2640,101879,"043","8. lipnja",18,323,"Grubišno Polje"
+"Brodsko-posavska županija","Slavonski Brod","Danijel Marušić",2043,130267,"035","15. travnja",26,185,"Nova Gradiška"
+"Brodsko-posavska županija","Slavonski Brod","Danijel Marušić",2043,130267,"035","15. travnja",26,185,"Slavonski Brod"
+"Dubrovačko-neretvanska županija","Dubrovnik","Blaž Pezo",1781,115564,"020","12. svibnja",17,230,"Dubrovnik"
+"Dubrovačko-neretvanska županija","Dubrovnik","Blaž Pezo",1781,115564,"020","12. svibnja",17,230,"Korčula"
+"Dubrovačko-neretvanska županija","Dubrovnik","Blaž Pezo",1781,115564,"020","12. svibnja",17,230,"Metković"
+"Dubrovačko-neretvanska županija","Dubrovnik","Blaž Pezo",1781,115564,"020","12. svibnja",17,230,"Opuzen"
+"Dubrovačko-neretvanska županija","Dubrovnik","Blaž Pezo",1781,115564,"020","12. svibnja",17,230,"Ploče"
+"Grad Zagreb","Zagreb","Tomislav Tomašević(gradonačelnik)",641,767131,"01 ","31. svibnja",0,0,"Zagreb"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Buje"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Buzet"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Kojib"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Labin"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Novigrad"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Pazin"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Poreč"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Pula"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Rovinj"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Umag"
+"Istarska županija","Pazin","Boris Miletić",2813,195237,"052","25. rujna",31,655,"Vodnjan"
+"Karlovačka županija","Karlovac","Martina Furdek-Hajdin",3622,112195,"047","25. travnja",17,649,"Duga Resa"
+"Karlovačka županija","Karlovac","Martina Furdek-Hajdin",3622,112195,"047","25. travnja",17,649,"Karlovac"
+"Karlovačka županija","Karlovac","Martina Furdek-Hajdin",3622,112195,"047","25. travnja",17,649,"Ogulin"
+"Karlovačka županija","Karlovac","Martina Furdek-Hajdin",3622,112195,"047","25. travnja",17,649,"Ozalj"
+"Karlovačka županija","Karlovac","Martina Furdek-Hajdin",3622,112195,"047","25. travnja",17,649,"Slunj"
+"Koprivničko-križevačka županija","Koprivnica","Tomislav Golubić",1748,101221,"048","13. travnja",22,264,"Đurđevac"
+"Koprivničko-križevačka županija","Koprivnica","Tomislav Golubić",1748,101221,"048","13. travnja",22,264,"Koprivnica"
+"Koprivničko-križevačka županija","Koprivnica","Tomislav Golubić",1748,101221,"048","13. travnja",22,264,"Križevci"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Donja Stubica"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Klanjec"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Krapina"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Oroslavje"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Pregrada"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Zabok"
+"Krapinsko-zagorska županija","Krapina","Željko Kolar",1229,120702,"049","23. travnja",25,423,"Zlatar"
+"Ličko-senjska županija","Gospić","Ernest Petry",5353,42748,"053","23. svibnja",8,255,"Gospić"
+"Ličko-senjska županija","Gospić","Ernest Petry",5353,42748,"053","23. svibnja",8,255,"Novalja"
+"Ličko-senjska županija","Gospić","Ernest Petry",5353,42748,"053","23. svibnja",8,255,"Otočac"
+"Ličko-senjska županija","Gospić","Ernest Petry",5353,42748,"053","23. svibnja",8,255,"Senj"
+"Međimurska županija","Čakovec","Matija Posavec",729,105250,"040","30. travnja",22,131,"Čakovec"
+"Međimurska županija","Čakovec","Matija Posavec",729,105250,"040","30. travnja",22,131,"Mursko Središće"
+"Međimurska županija","Čakovec","Matija Posavec",729,105250,"040","30. travnja",22,131,"Prelog"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Beli Manastir"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Belišće"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Donji Miholjac"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Đakovo"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Našice"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Osijek"
+"Osječko-baranjska županija","Osijek","Nataša Tramišak",4155,258026,"031","2. lipnja",35,263,"Valpovo"
+"Požeško-slavonska županija","Požega","Antonija Jozić",1823,64084,"034","14. travnja",5,277,"Kutjevo"
+"Požeško-slavonska županija","Požega","Antonija Jozić",1823,64084,"034","14. travnja",5,277,"Lipik"
+"Požeško-slavonska županija","Požega","Antonija Jozić",1823,64084,"034","14. travnja",5,277,"Pakrac"
+"Požeško-slavonska županija","Požega","Antonija Jozić",1823,64084,"034","14. travnja",5,277,"Pleternica"
+"Požeško-slavonska županija","Požega","Antonija Jozić",1823,64084,"034","14. travnja",5,277,"Požega"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Ainfaf"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Bakar"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Cres"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Crikvenica"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Čabar"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Delnice"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Kastav"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Kraljevica"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Krk"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Mali Lošinj"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Novi Vinodolski"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Opatija"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Rab"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Rijeka"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Sveradi"
+"Primorsko-goranska županija","Rijeka","Ivica Lukanović",3588,265419,"051","14. travnja",22,510,"Vrbovsko"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Glina"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Hrvatska Kostajnica"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Kutina"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Novska"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Petrinja"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Popovača"
+"Sisačko-moslavačka županija","Sisak","Ivan Celjak",4468,139603,"044","11. lipnja",12,456,"Sisak"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Hvar"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Imotski"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Kaštela"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Komiža"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Makarska"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Omiš"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Sinj"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Solin"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Split"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Stari Grad"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Supetar"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Trilj"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Trogir"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Vis"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Vrgorac"
+"Splitsko-dalmatinska županija","Split","Blaženko Boban",14045,423407,"021","30. rujna",39,368,"Vrlika"
+"Šibensko-kninska županija","Šibenik","Paško Rakić",2994,96381,"022","17. svibnja",15,199,"Drniš"
+"Šibensko-kninska županija","Šibenik","Paško Rakić",2994,96381,"022","17. svibnja",15,199,"Knin"
+"Šibensko-kninska županija","Šibenik","Paško Rakić",2994,96381,"022","17. svibnja",15,199,"Skradin"
+"Šibensko-kninska županija","Šibenik","Paško Rakić",2994,96381,"022","17. svibnja",15,199,"Šibenik"
+"Šibensko-kninska županija","Šibenik","Paško Rakić",2994,96381,"022","17. svibnja",15,199,"Vodice"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Ivanec"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Lepoglava"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Ludbreg"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Novi Marof"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Varaždin"
+"Varaždinska županija","Varaždin","Anđelko Stričak",1262,159487,"042","8. rujna",22,302,"Varaždinske Toplice"
+"Virovitičko-podravska županija","Virovitica","Igor Andrović",2024,70368,"033","5. rujna",13,188,"Orahovica"
+"Virovitičko-podravska županija","Virovitica","Igor Andrović",2024,70368,"033","5. rujna",13,188,"Slatina"
+"Virovitičko-podravska županija","Virovitica","Igor Andrović",2024,70368,"033","5. rujna",13,188,"Virovitica"
+"Vukovarsko-srijemska županija","Vukovar","Ivan Bosančić",2454,143113,"032","11. studenog",26,85,"Ilok"
+"Vukovarsko-srijemska županija","Vukovar","Ivan Bosančić",2454,143113,"032","11. studenog",26,85,"Otok"
+"Vukovarsko-srijemska županija","Vukovar","Ivan Bosančić",2454,143113,"032","11. studenog",26,85,"Vinkovci"
+"Vukovarsko-srijemska županija","Vukovar","Ivan Bosančić",2454,143113,"032","11. studenog",26,85,"Vukovar"
+"Vukovarsko-srijemska županija","Vukovar","Ivan Bosančić",2454,143113,"032","11. studenog",26,85,"Županja"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Benkovac"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Biograd na Moru"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Nin"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Obrovac"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Pag"
+"Zadarska županija","Zadar","Josip Bilaver",3646,159766,"023","15. travnja",28,229,"Zadar"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Dugo Selo"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Ivanić-Grad"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Jastrebarsko"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Samobor"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Sveta Nedelja"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Sveti Ivan Zelina"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Velika Gorica"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Vrbovec"
+"Zagrebačka županija","Grad Zagreb","Stjepan Kožić",3060,299985,"01 ","17. srpnja",25,694,"Zaprešić"

@@ -1,6 +1,9 @@
 const pool = require("./pool").pool;
 const e = require("express");
+const fs = require("fs");
+const path = require("path");
 const { Parser } = require("json2csv");
+const { log } = require("console");
 
 function ok(res, code, codeMessage, message, data) {
    res.status(code).json({
@@ -48,6 +51,26 @@ exports.getZupanije = async (req, res) => {
       let rows = r.rows;
       ok(res, 200, "OK", "Dohvaćene županije", rows);
    } catch {
+      fail(res, 500, "Internal Server Error", "Internal Server Error");
+   }
+};
+
+exports.updateDatoteke = async (req, res) => {
+   try {
+      const rows = await getFiltered("", "svi");
+      console.log("safgaesg000");
+
+      const jsonPath = path.join(__dirname, "zupanije_Republike_Hrvatske.json");
+      fs.writeFileSync(jsonPath, JSON.stringify(rows, null, 2));
+
+      const parser = new Parser();
+      const csv = parser.parse(rows);
+      const csvPath = path.join(__dirname, "zupanije_Republike_Hrvatske.csv");
+      fs.writeFileSync(csvPath, csv);
+
+      ok(res, 200, "OK", "Datoteke ažurirane", null);
+   } catch {
+      console.error("Greška pri pisanju datoteka:", err);
       fail(res, 500, "Internal Server Error", "Internal Server Error");
    }
 };
@@ -100,7 +123,7 @@ exports.getJson = async (req, res) => {
    try {
       const { search = "", atribut = "svi" } = req.query;
       const rows = await getFiltered(search, atribut);
-      ok(res, 200, "OK", "Dohvaćen JSON", rows);
+      res.json(rows);
    } catch {
       fail(res, 500, "Internal Server Error", "Internal Server Error");
    }
@@ -110,11 +133,12 @@ exports.getCsv = async (req, res) => {
    try {
       const { search = "", atribut = "svi" } = req.query;
       const rows = await getFiltered(search, atribut);
-
       const parser = new Parser();
       const csv = parser.parse(rows);
 
-      ok(res, 200, "OK", "Dohvaćen CSV", csv);
+      res.setHeader("Content-Type", "text/csv");
+      res.setHeader("Content-Disposition", "attachment; filename=filtrirano.csv");
+      res.send(csv);
    } catch {
       fail(res, 500, "Internal Server Error", "Internal Server Error");
    }

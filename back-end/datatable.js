@@ -52,7 +52,9 @@ async function downloadFile(put, search, atribut, ime) {
       if (!res.ok) throw new Error(`Server error ${res.status}`);
 
       const isJson = ime.endsWith(".json");
+      console.log("gnoa");
       const data = isJson ? await res.json() : await res.text();
+      console.log("msgoneou");
 
       const blob = new Blob(
          [isJson ? JSON.stringify(data, null, 2) : data],
